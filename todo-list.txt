@@ -1,4 +1,0 @@
-[1] do assignment
-[2] make presentation
-[3] do excersice
-[4] 4th command
